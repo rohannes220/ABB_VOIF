@@ -8,6 +8,7 @@ pip install -r requirements.txt
 playwright install chromium
 
 python main.py --platform all
+> **Note:** The Google Reviews scraper uses Playwright to automate a Chromium browser and collect reviews from multiple Google Maps store pages. As a result, running `--platform all` may take several minutes to complete. This is expected behavior—please allow the program to finish before terminating it.
 ```
 
 
@@ -73,7 +74,7 @@ The current implementation supports automated review collection from:
 
 - Google Reviews
 - MouthShut
-- Reviews.io
+
 
 To supplement the automated pipeline, manually curated datasets from platforms such as Myntra, Twitter, and Instagram are included where automated extraction was not feasible because of platform restrictions or anti-bot protections.
 
@@ -85,7 +86,6 @@ Data Collection
        ▼
 Google Reviews
 MouthShut
-Reviews.io
 Manual Review Sources
        │
        ▼
@@ -136,7 +136,7 @@ ABB_VOIF/
 ├── scrapers/
 │   ├── google_reviews.py
 │   ├── mouthshut.py
-│   └── reviewsio.py
+│   
 │
 ├── dashboards/
 │   ├── dashboard.pbix
