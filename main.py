@@ -5,6 +5,7 @@ into a single CSV that matches the existing ABB_Data_Cleaned.xlsx schema.
 
 import argparse
 import sys
+from datetime import datetime
 
 from config import BRANDS
 from schema import write_reviews
@@ -42,11 +43,15 @@ def main():
 
     parser.add_argument(
         "--output",
-        default="output/voc_fashion_raw.csv",
-        help="Output CSV path (default: output/voc_fashion_raw.csv)",
+        default=None,
+        help="Optional output CSV path",
     )
 
     args = parser.parse_args()
+
+    if args.output is None:
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        args.output = f"output/voc_fashion_raw_{timestamp}.csv"
 
     platforms = list(PLATFORM_MODULES.keys()) if args.platform == "all" else [args.platform]
 
