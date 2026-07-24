@@ -1,0 +1,204 @@
+brand,platform,type,product_name,rating,city,text,sentiment,intent,source_url,review_date,scraped_at,row_hash
+Allen Solly,Myntra,Product Quality,Oxford Shirt,5.0,Myntra,"Premium fabric and neat stitching, very comfortable for daily office wear.",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,395521938d693dc9
+Allen Solly,Myntra,Store Experience,Oxford Shirt,5.0,Myntra,"Great fit and soft cotton material, feels light and breathable.",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,d3db4b8415b0b733
+Allen Solly,Myntra,Product Quality,Oxford Shirt,4.0,Myntra,Good quality shirt but sizing is slightly bigger than expected.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,7c2963b4cdfb5709
+Allen Solly,Myntra,Store Experience,Oxford Shirt,5.0,Myntra,Stylish design and perfect for both casual and formal occasions.,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,e95e51fa24617364
+Allen Solly,Myntra,Product Quality,Oxford Shirt,4.0,Myntra,Fabric is good but length is a bit long for regular fit.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,aa9d100433a5c7e8
+Allen Solly,Myntra,Product Quality,Oxford Shirt,3.0,Myntra,Decent quality but fit is inconsistent compared to expectations.,Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,2e80283555a8efd9
+Allen Solly,Myntra,Product Quality,Casual Shirt,5.0,Myntra,Very good fabric quality and comfortable fit for daily wear.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,a8c172c2293030eb
+Allen Solly,Myntra,Store Experience,Casual Shirt,4.0,Myntra,Nice design and good stitching but slightly long in length.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,fc3e24699ae0bd1a
+Allen Solly,Myntra,Store Experience,Casual Shirt,5.0,Myntra,Perfect fit and looks premium for office wear.,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d44bddd84dec112b
+Allen Solly,Myntra,Product Quality,Casual Shirt,3.0,Myntra,Decent quality but sizing is not consistent.,Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,69d343c05a21c52a
+Allen Solly,Myntra,Product Quality,Casual Shirt,4.0,Myntra,Good shirt overall but slightly expensive for the quality.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,33cae786686c8051
+Allen Solly,Myntra,Store Experience,Casual Shirt,5.0,Myntra,"Soft material and breathable, very comfortable.",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,098d6317feea4f72
+Allen Solly,Myntra,Product Quality,Jacket,5.0,Myntra,Premium quality material and very stylish design.,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,a19fe699cbed13ea
+Allen Solly,Myntra,Store Experience,Jacket,4.0,Myntra,Good jacket but fit runs slightly larger than expected.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,405fc28c71e5e3ca
+Allen Solly,Myntra,Store Experience,Jacket,5.0,Myntra,Comfortable and perfect for winter wear.,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,2f1aa46c3629ff1a
+Allen Solly,Myntra,Pricing,Jacket,3.0,Myntra,Average quality for the price point.,Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,17692a4e8e9c81b0
+Allen Solly,Myntra,Store Experience,Jacket,4.0,Myntra,Nice look and suitable for casual outings.,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,ba199722e3637af9
+Allen Solly,Myntra,Pricing,Jacket,2.0,Myntra,Fabric feels thinner than expected and not worth the price.,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,7896db8d87807666
+Allen Solly,Twitter,Store Experience,Store Experience,3.683333333333333,,Received wrong product and return pickup partner refused exchange,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,e6ad3d6de08e0fd6
+Allen Solly,Twitter,Store Experience,Store Experience,,,Customer escalated issue and tagged brand for resolution,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,fa25a95c0533fcfd
+Allen Solly,Twitter,Store Experience,Store Experience,,,Brand responded asking to contact support,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d4f6f71d10f97c24
+Allen Solly,Twitter,Pricing,Store Experience,,,Promised lower price but billed higher with discount mismatch,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4b278b6cafc1fe3f
+Allen Solly,Twitter,Store Experience,Store Experience,,,Generic reply from brand asking to reach out to support,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c81eef3da73dfc1a
+Allen Solly,Twitter,Product Quality,Store Experience,,,Jacket quality issue with lint on fabric,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,ea765ec5f65efc60
+Allen Solly,Twitter,Store Experience,Store Experience,,,Leather belt damaged after short period of use,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,0c1de8a9cab738f9
+Allen Solly,Twitter,Product Quality,Store Experience,,,Customer unhappy with product quality,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,547d956a6e315c62
+Allen Solly,Twitter,Store Experience,Store Experience,,,Received used or damaged product and return was denied,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ebeab7f4217f64bf
+Allen Solly,Twitter,Store Experience,Store Experience,,,Multiple complaints but no resolution from customer support,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,0824ecd04e1c03f2
+Allen Solly,Twitter,Store Experience,Store Experience,,,Brand replied saying they are looking into the issue,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,b7818c6294744798
+Allen Solly,Twitter,Product Quality,Store Experience,,,Poor packaging quality especially for gifting items,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,9ff7b7ce39422465
+Allen Solly,Twitter,Store Experience,Store Experience,,,Customer expressed loss of trust due to poor experience,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,a798f5240eebf395
+Allen Solly,Twitter,Store Experience,Store Experience,,,Brand response was generic and templated,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,70f40a14f1d18b49
+Allen Solly,Twitter,Store Experience,Store Experience,,,Follow-up response from brand without clear resolution,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4452d849e00222cb
+Allen Solly / Van Heusen / Louis Philippe,Twitter,Store Experience,Shirts,,,"Customers complain that brands only offer slim fits, making them feel excluded and not catering to overweight individuals",Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4f2187bfa2c518d2
+Allen Solly,Twitter,Product Quality,T-Shirts,,,"Perception that product quality has declined over time, with issues like color fading after regular washes",Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,2e6bdb900448ca6f
+Allen Solly,Instagram,Store Experience,Valentine’s Day Collection,5.0,,"Positive engagement and praise for the Sania Mirza Valentine’s Day collaboration, with users highlighting the campaign as appealing and aspirational",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,8bd0452f1ad7db2e
+Van Heusen,Myntra,Store Experience,Track Pant,5.0,Myntra,"Extremely comfortable and durable, suitable for everyday use",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c6cf7e0f5ca3ff47
+Van Heusen,Myntra,Store Experience,Track Pant,5.0,Myntra,"Super comfortable with great fit, ideal for travel",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,fce142a714f25c92
+Van Heusen,Myntra,Product Quality,Track Pant,5.0,Myntra,"Soft fabric and very comfortable, loved the product",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,4926087b1db9cb90
+Van Heusen,Myntra,Product Quality,Track Pant,5.0,Myntra,Very good quality with perfect fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,58883b88399da031
+Van Heusen,Myntra,Store Experience,Track Pant,2.0,Myntra,Pocket zipper coating started peeling after few uses,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c2536277567f6ee5
+Van Heusen,Myntra,Store Experience,Track Pant,4.0,Myntra,Decent fit and comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,70a60d8ffdb139ba
+Van Heusen,Myntra,Product Quality,Track Pant,3.0,Myntra,Quality is good but overall average experience,Neutral,Recommendation,,,2026-07-11T13:32:47.600375+00:00,b3ebc5b65015e53c
+Van Heusen,Myntra,Store Experience,Track Pant,4.0,Myntra,Good product and comfortable,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,788c2c651c010f73
+Van Heusen,Myntra,Product Quality,Track Pant,4.0,Myntra,Good quality overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,961d4ea1c02196f3
+Van Heusen,Myntra,Store Experience,Track Pant,4.0,Myntra,Comfortable and decent,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,beb66825bc7480b1
+Van Heusen,Myntra,Product Quality,Track Pant,5.0,Myntra,Super quality and great comfort,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,efea2ac3e292260d
+Van Heusen,Myntra,Store Experience,Track Pant,5.0,Myntra,Perfect product with excellent comfort,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,d461aa1618097d1c
+Van Heusen,Myntra,Product Quality,T-Shirt,5.0,Myntra,"Soft, breathable fabric with perfect fit and good stitching quality",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,9045efa337dabc80
+Van Heusen,Myntra,Store Experience,T-Shirt,5.0,Myntra,Comfortable for long wear and maintains shape after washing,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,016eb98de8a6ad34
+Van Heusen,Myntra,Store Experience,T-Shirt,5.0,Myntra,Premium feel with clean stylish look and accurate color,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,595ccf5e91230310
+Van Heusen,Myntra,Product Quality,T-Shirt,4.0,Myntra,Comfortable and good quality but basic overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,88d5040260b6bfd5
+Van Heusen,Myntra,Product Quality,T-Shirt,5.0,Myntra,100% cotton fabric with good quality but slightly loose fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,25db50c8fe886e10
+Van Heusen,Myntra,Store Experience,T-Shirt,5.0,Myntra,"Very soft and comfortable, perfect for layering or daily wear",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,f3d65cd248b56ad4
+Van Heusen,Myntra,Store Experience,T-Shirt,5.0,Myntra,Premium feel and great first impression,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,c9c028ffcfa7db34
+Van Heusen,Myntra,Product Quality,T-Shirt,5.0,Myntra,"Good quality, perfect fit and classy minimal design",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,607a6f03b7ad84b0
+Van Heusen,Myntra,Store Experience,T-Shirt,4.0,Myntra,Simple design and comfortable but not very distinctive,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,7c5f4da08a390487
+Van Heusen,Myntra,Product Quality,T-Shirt,5.0,Myntra,High quality fabric and very comfortable for everyday use,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,63cbe55aea48f217
+Van Heusen,Myntra,Product Quality,T-Shirt,5.0,Myntra,Color matches expectations and fabric feels durable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,b6c7afe3ddd662d5
+Van Heusen,Myntra,Store Experience,T-Shirt,5.0,Myntra,"Comfortable and premium feel, strong brand perception",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,f323ecdabd48141f
+Van Heusen,Myntra,Product Quality,Camisole,5.0,Myntra,Soft and breathable fabric with snug yet flexible fit for all-day comfort,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,564ead95106ca08c
+Van Heusen,Myntra,Store Experience,Camisole,5.0,Myntra,Very comfortable with adjustable straps for a customized fit,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,77cc2eab6e5ebbf6
+Van Heusen,Myntra,Pricing,Camisole,5.0,Myntra,Genuine product with great quality at a good price,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,ef00426c1cb39581
+Van Heusen,Myntra,Store Experience,Camisole,5.0,Myntra,Excellent fit and gives an elegant look under formal wear,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,f3bb2034dd9b50f5
+Van Heusen,Myntra,Product Quality,Camisole,5.0,Myntra,Cotton fabric is soft and comfortable for everyday use,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,8520aa099795885d
+Van Heusen,Myntra,Product Quality,Camisole,3.0,Myntra,Product received was different from image though quality was good,Neutral,Recommendation,,,2026-07-11T13:32:47.600375+00:00,6f8aac784e21620f
+Van Heusen,Myntra,Product Quality,Camisole,5.0,Myntra,Good quality with comfortable fit and adjustable straps,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,f758a701b9f74628
+Van Heusen,Myntra,Store Experience,Camisole,5.0,Myntra,Perfect for layering and feels very comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,99f0d7c23af1163c
+Van Heusen,Myntra,Product Quality,Camisole,5.0,Myntra,Soft fabric provides good shape and comfort,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,da9c15219571c19b
+Van Heusen,Myntra,Store Experience,Camisole,5.0,Myntra,Light and breathable material ideal for summer wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,578773db62fa2527
+Van Heusen,Myntra,Product Quality,Camisole,4.0,Myntra,Comfortable fabric with good fit and color,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,db7ed2722627c82a
+Van Heusen,Myntra,Product Quality,Camisole,5.0,Myntra,Overall great quality and very comfortable,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,9da6a6d9358b443a
+Van Heusen,Twitter,Store Experience,Store Experience,,,Paid for order from Bangalore store but still not received products,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,93ff6a1ea40d6252
+Van Heusen,Twitter,Store Experience,Store Experience,,,Brand asked user to check DM for resolution,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,7ecfbc22b4ec2db4
+Van Heusen,Twitter,Store Experience,Store Experience,,,"Poor in-store experience, customer said they will not return",Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,cce92f497c0c25e6
+Van Heusen,Twitter,Store Experience,Store Experience,,,Return pickup failed multiple times and refund not processed,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,09defde00abd0aff
+Van Heusen,Twitter,Store Experience,Store Experience,,,Brand responded asking customer to check DM,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,24cff138b9b7eed7
+Van Heusen,Twitter,Store Experience,Store Experience,,,Customer complained about blazer fitting issues and unresolved alterations,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,ef73dbe44115822f
+Van Heusen,Twitter,Store Experience,Store Experience,,,Brand responded with generic “check DM” message,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,6726156cdf1048a7
+Van Heusen,Twitter,Product Quality,Store Experience,,,Complaint about poor fabric durability with torn shirt,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,35faf428d31a1121
+Van Heusen,Twitter,Store Experience,Store Experience,,,Brand asked for details via DM to resolve issue,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,eac59e67a99eaa6b
+Van Heusen,Twitter,Store Experience,Store Experience,,,Poor packaging experience when buying gift items,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,0daf03605debe215
+Van Heusen,Twitter,Store Experience,Store Experience,,,Customer said worst experience and advised others not to buy,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,c69f1f5d64630841
+Van Heusen,Twitter,Pricing,Store Experience,,,Complaint about poor quality compared to competitors despite high price,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,c0fe941583bedecd
+Van Heusen,Twitter,Product Quality,Store Experience,,,Product returned twice due to lint issue and poor quality,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,f65ba999ff70381f
+Van Heusen,Twitter,Store Experience,Store Experience,,,Brand responded with standard template about customer satisfaction,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c36c162d76da21a4
+Allen Solly / Van Heusen / Louis Philippe,Twitter,Store Experience,Shirts,,,"Customers complain that brands only offer slim fits, making them feel excluded and not catering to overweight individuals",Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4f2187bfa2c518d2
+Louis Philippe,Myntra,Product Quality,Trousers,5.0,Myntra,Very soft fabric with awesome fitting and great overall look,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,a3a5a50589f57c44
+Louis Philippe,Myntra,Product Quality,Trousers,4.0,Myntra,Good fabric quality with nice fit but not premium,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,15113547b9bc8ae6
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,"Smooth and thin cloth, comfortable for humid weather",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,edd90ea4d95474b9
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,Very good product with accurate color delivery,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,d97010eab068ba67
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,Perfect fit and length with comfortable stretchable material,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,93089e1bbb630757
+Louis Philippe,Myntra,Store Experience,Trousers,4.0,Myntra,"Good texture and color, overall value for money",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,5c23a3de913e3967
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,Premium cotton softness with comfortable feel,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,44e792a468782ae9
+Louis Philippe,Myntra,Store Experience,Trousers,3.0,Myntra,"Not very stretchable, sizing may require adjustment",Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,a7235a84a020a386
+Louis Philippe,Myntra,Product Quality,Trousers,5.0,Myntra,Great fabric quality and good fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,bf546e910a8d1c44
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,Excellent fitting and suitable for humid weather,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,1b20bc7be92295e1
+Louis Philippe,Myntra,Product Quality,Trousers,4.0,Myntra,Stylish design with good material quality,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,819fb050618f5cb1
+Louis Philippe,Myntra,Store Experience,Trousers,5.0,Myntra,"Good fit and color, slight length adjustment needed",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,c10eaa31b427b43e
+Louis Philippe,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Lightweight and comfortable with impressive color,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ebc7450a2af1d247
+Louis Philippe,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Very warm and comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,9d0d61402658fb32
+Louis Philippe,Myntra,Store Experience,Sweatshirt,4.0,Myntra,Good product overall and worth buying,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,892b13216fc53875
+Louis Philippe,Myntra,Product Quality,Sweatshirt,5.0,Myntra,Good quality with stain resistance,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,13bac8c20e33abe0
+Louis Philippe,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Comfortable and well liked product,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,91188dabcc9c7e25
+Louis Philippe,Myntra,Product Quality,Sweatshirt,5.0,Myntra,Good quality and overall satisfaction,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,bf625860a3eb76f1
+Louis Philippe,Myntra,Product Quality,Sweater,3.0,Myntra,Quality not as good as expected,Neutral,Recommendation,,,2026-07-11T13:32:47.600375+00:00,84ec08554e34238a
+Louis Philippe,Myntra,Store Experience,Sweater,5.0,Myntra,Smooth and comfortable sweater,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c083073d25a0ca2b
+Louis Philippe,Myntra,Product Quality,Sweater,5.0,Myntra,Very good quality,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,e854e9da321a8a2a
+Louis Philippe,Myntra,Store Experience,Sweater,5.0,Myntra,Good product overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,2e7dae554589b285
+Louis Philippe,Myntra,Product Quality,Sweater,4.0,Myntra,Decent quality and comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,90b5bcf0145d8f77
+Louis Philippe,Myntra,Store Experience,Sweater,5.0,Myntra,Nice product with good comfort,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,f1fe34cb3342fa85
+Louis Philippe,Myntra,Product Quality,Sweater,5.0,Myntra,Good quality and fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,bef57ee7967ab79c
+Louis Philippe,Myntra,Store Experience,Sweater,5.0,Myntra,Comfortable and good overall experience,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,144fd1ac6ec7c2be
+Louis Philippe,Myntra,Product Quality,Sweater,3.0,Myntra,Average quality compared to expectations,Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,873480f27b5d4b6f
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Customer complained about delayed delivery and not receiving order,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,61d219b9451ca642
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand asked customer to share details via DM for resolution,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4ced2eb21babe4bb
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Complaint about poor after-sales support for purchased items,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,c3be1e05e7e0d152
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand replied asking for invoice and contact details,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,fe1cb4155642ca19
+Louis Philippe,Twitter,Product Quality,Store Experience,,,Customer unhappy with product quality and durability,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d08048467812d7fc
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand responded with apology and asked to connect via email/DM,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d42874cc29c1d85c
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Complaint about wrong product or mismatch in order,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,3724a495706cee81
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand gave standard support reply asking for more details,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,932e36a64d1b8e30
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Customer raised issue about return or exchange delays,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,163de0ed533f4caf
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand responded with generic “please share details” message,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ab858b0882569c3c
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Complaint about pricing compared to competitors,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,56aff4e1cf26bb05
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Customer reported dissatisfaction with store experience,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,2e2ac7f19f977c43
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand replied with apology and standard template response,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,6bde9453eb68e5dd
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Customer highlighted issues with delivery partner and logistics,Negative,Complaint,,,2026-07-11T13:32:47.600375+00:00,ded4846da3f07fc9
+Louis Philippe,Twitter,Store Experience,Store Experience,,,Brand asked customer to continue conversation in private message,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,198410b281e8fd9a
+Louis Philippe,Instagram,Product Quality,Formal Shirts,5.0,,"Customers highlight superior fabric and comfort, indicating strong perceived product quality",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,a46d5c42b6fa9eef
+Louis Philippe,Instagram,Product Quality,Shirts,4.0,,"Positive comments around fabric feel and finish suggest a premium positioning, though limited detail in feedback",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,cdc586568c875748
+Peter England,Myntra,Store Experience,Blazer,5.0,Myntra,Good product overall and worth buying,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,b96c392b0473a602
+Peter England,Myntra,Store Experience,Blazer,5.0,Myntra,Loved the product and value for money,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,2cd6464246865b9a
+Peter England,Myntra,Pricing,Blazer,4.0,Myntra,Good quality blazer for the price,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,e5b23ee4705c551e
+Peter England,Myntra,Pricing,Blazer,5.0,Myntra,Best product in this price range,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,73927fc85e494324
+Peter England,Myntra,Store Experience,Blazer,1.0,Myntra,Blazer cover provided without zip,Negative,General Feedback,,,2026-07-11T13:32:47.600375+00:00,529727055ca91508
+Peter England,Myntra,Product Quality,Shirt,5.0,Myntra,Soft breathable fabric and very comfortable for all day wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,702d2da27c52cc76
+Peter England,Myntra,Product Quality,Shirt,5.0,Myntra,Fabric quality is excellent and does not fade after wash,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,454dd762f3450a05
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Very comfortable and easy to wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,204a5e0eb911cc4d
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Stylish and perfect for office or casual wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,7c90cf4382686446
+Peter England,Myntra,Product Quality,Shirt,5.0,Myntra,Great quality with very reasonable pricing,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,893db4b64d90270f
+Peter England,Myntra,Store Experience,Shirt,4.0,Myntra,Good fit and summer friendly material,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,c9b71317c410e3ce
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Fit and finish are excellent,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,76daedfe03014fda
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Perfect fitting and looks exactly like image,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,453660ded5f82977
+Peter England,Myntra,Pricing,Shirt,5.0,Myntra,Comfortable and worth the price,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,18d64895edfd1ee4
+Peter England,Myntra,Store Experience,Shirt,4.0,Myntra,Nice product and comfortable,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,d2f9179d79ccc419
+Peter England,Myntra,Product Quality,Shirt,5.0,Myntra,Good fabric and great fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,d3186d09cd7c3d33
+Peter England,Myntra,Product Quality,Shirt,5.0,Myntra,High quality material and clean look,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,6c705f145b3b92f2
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Affordable and premium feel,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,3c020eec8fd4a108
+Peter England,Myntra,Store Experience,Shirt,4.0,Myntra,Good value for money,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,a4c7de8d40ae7049
+Peter England,Myntra,Store Experience,Shirt,5.0,Myntra,Durable and maintains shape after wash,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,692e79aaf396ed07
+Peter England,Myntra,Product Quality,Trousers,5.0,Myntra,Soft breathable fabric with perfect slim fit,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ef78e07682dee64c
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Premium feel and very comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ce085aa837a9f243
+Peter England,Myntra,Product Quality,Trousers,5.0,Myntra,Best trousers with great quality and fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,88c620277dae0bcb
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Excellent stitching and durable material,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,253d9c32f11772c9
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Perfect for office and casual wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,0b6f322a1347aa03
+Peter England,Myntra,Product Quality,Trousers,4.0,Myntra,Comfortable but slightly less premium fabric,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d1598c9af3244211
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Good fit and color retention after washing,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,83f21766ab9a8fd6
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Stylish and versatile trousers,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,b15bb7dd0ac30943
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Comfortable for all day wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,bd10ea3563beac11
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Sharp formal look with great fit,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,37454b9e6c6452de
+Peter England,Myntra,Product Quality,Trousers,4.0,Myntra,Good material but could be better quality,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,7717b70f88a788ae
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Value for money and reliable brand,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,916368b75d7b1186
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Premium finish and comfortable,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,e5ece9c3d97b27bf
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Clean design and perfect fitting,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4b72b5a39b113c40
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Highly recommended for daily wear,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,13d87a734afc8950
+Peter England,Myntra,Store Experience,Trousers,4.0,Myntra,Decent fit and comfortable material,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,2993337d366c5dac
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Great product overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,2fecd5b37528166a
+Peter England,Myntra,Store Experience,Trousers,5.0,Myntra,Stylish and comfortable fit,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d544ebb9ddd83555
+Peter England,Myntra,Product Quality,Trousers,5.0,Myntra,Good quality and long lasting,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,ef076c9000d5d79a
+Peter England,Myntra,Store Experience,Trousers,4.0,Myntra,Good trousers but slightly average feel,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,884757ed7c80f40a
+Peter England,Instagram,Store Experience,Cricket Campaign,5.0,,"Campaign resonates strongly with audiences due to cricket relevance, enhancing brand relatability and engagement",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,48a494b2b3c108ef
+Peter England,Instagram,Store Experience,Cricket Collection,4.0,,Positive engagement indicates that sports-based campaigns effectively connect with the target audience,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,530415916ec2f2bc
+American Eagle,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Best winter wear with great fit and vibrant color,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,2f7c6b8734ba9582
+American Eagle,Myntra,Product Quality,Sweatshirt,5.0,Myntra,"Top quality fabric, warm and classy for winters",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,b4965bb575f20fb9
+American Eagle,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Soft fleece and warm material with good comfort,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,e36a4d62017617ef
+American Eagle,Myntra,Store Experience,Sweatshirt,4.0,Myntra,"Warm and soft sweatshirt, overall good product",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,0f5874e1ae4f5b24
+American Eagle,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Perfect size and comfortable fit,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,ef9fe4842676360d
+American Eagle,Myntra,Store Experience,Sweatshirt,3.0,Myntra,Product is average overall,Neutral,General Feedback,,,2026-07-11T13:32:47.600375+00:00,0c896d506ecc087b
+American Eagle,Myntra,Product Quality,T-Shirt,5.0,Myntra,"Loved the color, fabric and fitting",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,7b18d6390d48e488
+American Eagle,Myntra,Store Experience,T-Shirt,5.0,Myntra,Amazing color and overall look,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,0b3313443efcf9c7
+American Eagle,Myntra,Product Quality,T-Shirt,3.0,Myntra,Print quality is not good,Neutral,Recommendation,,,2026-07-11T13:32:47.600375+00:00,0f308f0a36161439
+American Eagle,Myntra,Store Experience,T-Shirt,4.0,Myntra,Decent product,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,5495308b76cd87a1
+American Eagle,Myntra,Store Experience,T-Shirt,5.0,Myntra,Nice product overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,fd2338926ae6ef4e
+American Eagle,Instagram,Store Experience,Celebrity Campaign (Ananya Panday),5.0,,"High positive engagement when Bollywood celebrity Ananya Panday is featured, with users responding strongly to influencer-led content and brand styling",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,d3cfd6119b89252c
+American Eagle,Instagram,Store Experience,Influencer Campaign,5.0,,"Celebrity endorsement drives strong visibility and engagement, enhancing brand appeal among younger audiences",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,4335fa44b232daba
+American Eagle,Instagram,Store Experience,Bollywood Collaboration,4.0,,Positive audience reactions indicate that Bollywood partnerships increase relatability and trend alignment,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,c3b0a4f7094d8fd3
+Reebok,Myntra,Product Quality,T-Shirt,5.0,Myntra,Very comfortable with soft breathable fabric and perfect fit,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,093697f6bf6477d8
+Reebok,Myntra,Product Quality,T-Shirt,5.0,Myntra,"Soft fabric, great fit and color stays vibrant after washing",Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,675f66340c37d75c
+Reebok,Myntra,Store Experience,T-Shirt,5.0,Myntra,Good fitting and suitable for all weather conditions,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,a37fddd865c48aa2
+Reebok,Myntra,Product Quality,T-Shirt,3.0,Myntra,Good cotton quality but not suitable for sports use,Neutral,Recommendation,,,2026-07-11T13:32:47.600375+00:00,87418c55d8c7feb9
+Reebok,Myntra,Product Quality,T-Shirt,5.0,Myntra,Perfect size and good quality,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,3dcd6128d9a44365
+Reebok,Myntra,Product Quality,T-Shirt,4.0,Myntra,Good quality overall,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,546a35fca769dfc6
+Reebok,Myntra,Product Quality,T-Shirt,5.0,Myntra,Nice fabric and comfortable,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,2ce963af175d5b8e
+Reebok,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Good product,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,84a187afdaa37a65
+Reebok,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Nice product,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,015f1c4c47856fba
+Reebok,Myntra,Store Experience,Sweatshirt,5.0,Myntra,Nice and comfortable,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,b74c1ab29d235037
+Reebok,Myntra,Store Experience,Track Pants,5.0,Myntra,Good product,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,84a187afdaa37a65
+Reebok,Myntra,Store Experience,Track Pants,5.0,Myntra,Nice product,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,015f1c4c47856fba
+Reebok,Myntra,Store Experience,Track Pants,5.0,Myntra,Comfortable and good,Positive,Recommendation,,,2026-07-11T13:32:47.600375+00:00,81d1a58737aeda19
+Reebok,Instagram,Store Experience,Sports Partnership Campaign,5.0,,Collaborations with athletes and local teams drive high engagement and strengthen brand credibility in sports,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,7370015606e2df85
+Reebok,Instagram,Store Experience,Athlete Collaboration,4.0,,Positive reactions indicate that grassroots and athlete-led campaigns improve relatability and trust,Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,5b302083008d5568
+Reebok,Instagram,Store Experience,Local Soccer Team & Manu Bhaker Campaign,5.0,,"Strong positive engagement when partnering with a local soccer team and shooter athlete Manu Bhaker, with users appreciating the authentic sports association and community connection",Positive,General Feedback,,,2026-07-11T13:32:47.600375+00:00,2a09def538293e30
