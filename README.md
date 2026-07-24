@@ -7,7 +7,7 @@ cd ABB_VOIF
 pip install -r requirements.txt
 playwright install chromium
 
-python main.py --platform all
+python3 main.py --platform all
 > **Note:** The Google Reviews scraper uses Playwright to automate a Chromium browser and collect reviews from multiple Google Maps store pages. As a result, running `--platform all` may take several minutes to complete. This is expected behavior—please allow the program to finish before terminating it.
 ```
 
