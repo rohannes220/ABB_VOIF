@@ -159,9 +159,31 @@ def scrape_all(brands: list = None, cities: list = None) -> list[Review]:
     cities = cities or CITIES
 
     all_reviews = []
+
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=HEADLESS)
-        page = browser.new_page()
+        browser = p.chromium.launch(
+            headless=HEADLESS,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--start-maximized",
+            ],
+        )
+
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+            locale="en-US",
+            viewport={"width": 1366, "height": 768},
+            extra_http_headers={
+                "Accept-Language": "en-US,en;q=0.9",
+                "Upgrade-Insecure-Requests": "1",
+            },
+        )
+
+        page = context.new_page()
 
         for brand in brands:
             for city in cities:
@@ -169,11 +191,16 @@ def scrape_all(brands: list = None, cities: list = None) -> list[Review]:
                 try:
                     reviews = scrape_query(page, query, brand, city)
                     all_reviews.extend(reviews)
-                    print(f"[Google Reviews] {query}: {len(reviews)} total reviews across all stores found")
+                    print(
+                        f"[Google Reviews] {query}: "
+                        f"{len(reviews)} total reviews across all stores found"
+                    )
                 except Exception as e:
                     print(f"[Google Reviews] Failed on '{query}': {e}")
+
                 time.sleep(REQUEST_DELAY_SECONDS)
 
+        context.close()
         browser.close()
 
     return all_reviews
