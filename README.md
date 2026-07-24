@@ -1,6 +1,6 @@
 # Voice of the Customer (VoC) Fashion Analytics Pipeline
 
-A Python-based data collection and analytics pipeline for analyzing publicly available customer feedback on fashion brands. This project collects reviews from multiple online platforms, standardizes them into a common schema, performs sentiment and intent analysis, and prepares the data for business intelligence dashboards.
+A Python-based data collection and analytics pipeline for analyzing publicly available customer feedback on fashion brands. The project collects reviews from multiple online platforms, standardizes them into a common schema, performs sentiment and intent analysis, and prepares analytics-ready datasets for Microsoft Power BI dashboards.
 
 ---
 
@@ -8,7 +8,7 @@ A Python-based data collection and analytics pipeline for analyzing publicly ava
 
 Voice of the Customer (VoC) is a customer analytics initiative focused on understanding how consumers perceive fashion brands across multiple public platforms.
 
-The project analyzes customer sentiment, purchase intent, complaints, and key experience drivers using publicly available reviews and comments. The processed data is transformed into dashboard-ready datasets that enable business users to identify trends, compare brand performance, and uncover actionable customer insights.
+The project analyzes customer sentiment, purchase intent, complaints, and key customer experience drivers using publicly available reviews. The processed data is transformed into dashboard-ready datasets that help identify trends, compare brand performance, and uncover actionable business insights.
 
 ---
 
@@ -31,19 +31,19 @@ The project integrates review data from multiple platforms to answer questions s
 
 # Business Questions
 
-This project aims to answer questions such as:
+This project helps answer questions such as:
 
 - How do customers perceive different ABLBL brands across platforms?
 - What are the primary drivers of positive and negative sentiment?
 - How does customer sentiment differ between retail stores and online review platforms?
 - Which customer intents are expressed most frequently?
-- Are there emerging issues that require business attention?
+- Are there emerging issues requiring business attention?
 
 ---
 
 # Brands in Scope
 
-The analysis includes reviews for brands such as:
+The project currently analyzes reviews for:
 
 - Allen Solly
 - Louis Philippe
@@ -56,19 +56,17 @@ The analysis includes reviews for brands such as:
 
 # Data Sources
 
-The current implementation supports automated data collection from:
+The current implementation supports automated review collection from:
 
 - Google Reviews
 - MouthShut
 - Reviews.io
 
-Additional manually collected datasets may be included for platforms where automated extraction was not feasible because of platform restrictions or anti-bot protections.
+Additional manually collected datasets may be included where automated extraction is not feasible because of platform restrictions or anti-bot protections.
 
 ---
 
 # System Architecture
-
-The overall workflow is shown in the architecture diagram included in the repository.
 
 ```
 Data Collection
@@ -101,7 +99,7 @@ Final Analytics Dataset
 Power BI Dashboard
 ```
 
-The full architecture diagram is available in:
+The complete architecture diagram is available in:
 
 ```
 docs/architecture.png
@@ -117,29 +115,31 @@ ABB_VOIF/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
+├── .gitignore
 ├── config.py
 ├── main.py
 ├── merge.py
 ├── label.py
 ├── schema.py
-
+│
 ├── scrapers/
 │   ├── google_reviews.py
 │   ├── mouthshut.py
 │   └── reviewsio.py
-
-├── dashboard/
+│
+├── dashboards/
 │   ├── dashboard.pbix
 │   └── dashboard.pdf
-
+│
 ├── docs/
 │   ├── architecture.png
 │   └── VoC_Fashion_Final_Presentation.pdf
-
+│
 └── output/
-    ├── voc_fashion_raw.csv
-    ├── voc_fashion_labeled.csv
-    └── voc_fashion_final.csv
+    ├── voc_fashion_raw_sample.csv
+    ├── voc_fashion_labeled_sample.csv
+    ├── voc_fashion_final_sample.csv
+    └── voc_fashion_raw_<timestamp>.csv
 ```
 
 ---
@@ -147,13 +147,13 @@ ABB_VOIF/
 # Features
 
 - Automated review collection
-- Multi-platform support
+- Multi-platform web scraping
 - Standardized review schema
-- Duplicate detection
 - Dataset merging
+- Duplicate detection
 - Sentiment analysis
 - Intent classification
-- Dashboard-ready output
+- Dashboard-ready datasets
 - CSV export
 
 ---
@@ -184,7 +184,7 @@ playwright install chromium
 
 # Reproducibility
 
-This repository includes the source code, dependency list, project documentation, sample output datasets, and execution instructions necessary to reproduce the analytics workflow.
+This repository includes the complete source code, dependency list, project documentation, sample output datasets, and execution instructions required to reproduce the analytics workflow.
 
 To reproduce the project:
 
@@ -192,7 +192,7 @@ To reproduce the project:
 2. Install all required dependencies.
 3. Install the Playwright browser.
 4. Configure platform-specific settings in `config.py`.
-5. Run the desired scraper(s).
+5. Run the desired scraper(s). Each execution automatically generates a new timestamped dataset in the `output/` directory.
 6. Merge and label the collected reviews.
 7. Generate the final analytics dataset.
 8. Open the Power BI dashboard to explore the results.
@@ -221,10 +221,19 @@ Run all implemented scrapers:
 python main.py --platform all
 ```
 
-Specify an output location:
+By default, the pipeline automatically creates a timestamped output file.
+
+Example:
+
+```text
+output/
+voc_fashion_raw_2026-07-24_18-45-12.csv
+```
+
+Optionally, specify your own output file:
 
 ```bash
-python main.py --output output/voc_fashion_raw.csv
+python main.py --output output/my_reviews.csv
 ```
 
 ---
@@ -240,37 +249,46 @@ The workflow consists of the following stages:
 5. Perform sentiment analysis.
 6. Classify customer intent.
 7. Export the processed dataset.
-8. Visualize insights using Power BI.
+8. Visualize insights using Microsoft Power BI.
 
 ---
 
 # Output
 
-The repository includes sample outputs produced by the pipeline.
+The repository includes **sample output datasets** generated during development and testing.
 
 | File | Description |
 |------|-------------|
-| voc_fashion_raw.csv | Raw collected reviews |
-| voc_fashion_labeled.csv | Reviews with sentiment and intent labels |
-| voc_fashion_final.csv | Final processed dataset |
+| voc_fashion_raw_sample.csv | Sample raw review dataset |
+| voc_fashion_labeled_sample.csv | Sample labeled review dataset |
+| voc_fashion_final_sample.csv | Sample analytics-ready dataset |
+
+Each execution of the pipeline automatically generates a new timestamped raw dataset, for example:
+
+```text
+output/
+voc_fashion_raw_2026-07-24_18-45-12.csv
+```
+
+This preserves previous runs while preventing existing datasets from being overwritten.
 
 ---
 
 # Sentiment Analysis
 
-The project classifies reviews into:
+Customer reviews are classified into:
 
 - Positive
 - Neutral
 - Negative
 
-The labeled sentiment enables comparison across brands, review platforms, and customer experience categories.
+These labels enable comparisons across brands, review platforms, and customer experience categories.
 
 ---
 
 # Intent Classification
 
-Customer reviews are categorized into intents such as:
+Customer reviews are categorized into intents including:
 
 - Purchase Intent
 - Complaint
@@ -279,7 +297,7 @@ Customer reviews are categorized into intents such as:
 - Information Seeking
 - General Feedback
 
-These labels help identify customer motivations and common discussion themes.
+These labels help identify customer motivations and recurring discussion themes.
 
 ---
 
@@ -289,8 +307,8 @@ The processed datasets are visualized using Microsoft Power BI.
 
 The repository includes:
 
-- `dashboard/dashboard.pbix`
-- `dashboard/dashboard.pdf`
+- `dashboards/dashboard.pbix`
+- `dashboards/dashboard.pdf`
 
 The dashboard provides:
 
@@ -310,10 +328,10 @@ Additional project documentation is included in the repository.
 ```
 docs/
 ├── architecture.png
-└── VoC_Fashion_Final_Presentation.pptx
+└── VoC_Fashion_Final_Presentation.pdf
 ```
 
-These documents describe the project architecture, analytical approach, and business insights.
+These documents describe the project architecture, analytical methodology, and business insights.
 
 ---
 
@@ -325,7 +343,7 @@ These documents describe the project architecture, analytical approach, and busi
 - BeautifulSoup
 - Requests
 - VADER Sentiment Analysis
-- Power BI
+- Microsoft Power BI
 - Git
 - GitHub
 
@@ -333,7 +351,7 @@ These documents describe the project architecture, analytical approach, and busi
 
 # Known Limitations
 
-- Automated review extraction depends on publicly accessible webpages and may require updates if website structures change.
+- Automated review extraction depends on publicly accessible webpages and may require updates if website structures or anti-bot protections change over time.
 - Some platforms employ anti-bot protections that limit automated data collection.
 - Intent classification is based on predefined keyword rules and may not capture every linguistic nuance.
 - Sentiment analysis performance depends on the quality and language of the available review text.
@@ -349,5 +367,3 @@ This project is intended for academic and portfolio purposes.
 # Author
 
 **Rohan Kumar**
-
-
