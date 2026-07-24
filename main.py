@@ -12,7 +12,6 @@ from schema import write_reviews
 
 PLATFORM_MODULES = {
     "mouthshut": "scrapers.mouthshut",
-    "reviewsio": "scrapers.reviewsio",
     "google": "scrapers.google_reviews",
 }
 
