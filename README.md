@@ -1,3 +1,16 @@
+## Quick Start
+
+```bash
+git clone https://github.com/rohannes220/ABB_VOIF.git
+cd ABB_VOIF
+
+pip install -r requirements.txt
+playwright install chromium
+
+python main.py --platform all
+```
+
+
 # Voice of the Customer (VoC) Fashion Analytics Pipeline
 
 A Python-based data collection and analytics pipeline for analyzing publicly available customer feedback on fashion brands. The project collects reviews from multiple online platforms, standardizes them into a common schema, performs sentiment and intent analysis, and prepares analytics-ready datasets for Microsoft Power BI dashboards.
