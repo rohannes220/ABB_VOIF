@@ -20,6 +20,11 @@ CITIES = [
     "Bangalore",
     "Mumbai",
     "Delhi",
+    "Chennai",
+    "Kolkata",
+    "Hyderabad",
+    "Pune",
+    "Ahmedabad",
 ]
 
 # MouthShut and Reviews.io use brand-slug URLs. Fill these in once you've
