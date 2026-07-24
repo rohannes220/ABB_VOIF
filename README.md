@@ -310,7 +310,7 @@ Additional project documentation is included in the repository.
 ```
 docs/
 ├── architecture.png
-└── VoC_Fashion_Final_Presentation.pdf
+└── VoC_Fashion_Final_Presentation.pptx
 ```
 
 These documents describe the project architecture, analytical approach, and business insights.
@@ -350,6 +350,4 @@ This project is intended for academic and portfolio purposes.
 
 **Rohan Kumar**
 
-MS in Computer Science (Align)
 
-Northeastern University
