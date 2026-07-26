@@ -329,7 +329,7 @@ docs/
 
 These documents describe the project architecture, analytical methodology, and business insights.
 
-#Technologies Used 
+Technologies Used 
 ---
 - Python
 - Pandas
