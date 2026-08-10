@@ -1,4 +1,4 @@
-Got you — here’s a **clean rewritten version** of the README content with YouTube fully integrated. You can paste this over the current README.
+
 
 ````markdown
 # Voice of the Customer (VoC) Fashion Analytics Pipeline
