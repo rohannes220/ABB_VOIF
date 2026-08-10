@@ -360,3 +360,60 @@ This project is intended for academic and portfolio purposes.
 # Author
 
 **Rohan Kumar**
+
+---
+
+# YouTube Comments Source
+
+The pipeline also supports public YouTube comments through the official **YouTube Data API v3**.
+
+## 1. Set your API key
+
+macOS / Linux:
+
+```bash
+export YOUTUBE_API_KEY="YOUR_API_KEY"
+```
+
+Windows PowerShell:
+
+```powershell
+$env:YOUTUBE_API_KEY="YOUR_API_KEY"
+```
+
+Do **not** hard-code or commit the API key into the repository.
+
+## 2. Test YouTube only
+
+For a small first test, limit the number of videos and comments:
+
+macOS / Linux:
+
+```bash
+export YOUTUBE_MAX_VIDEOS_PER_BRAND=1
+export YOUTUBE_MAX_COMMENTS_PER_VIDEO=10
+python3 main.py --platform youtube --output output/youtube_test.csv
+```
+
+Windows PowerShell:
+
+```powershell
+$env:YOUTUBE_MAX_VIDEOS_PER_BRAND="1"
+$env:YOUTUBE_MAX_COMMENTS_PER_VIDEO="10"
+python main.py --platform youtube --output output/youtube_test.csv
+```
+
+The generated rows use the same shared review schema as Google Reviews and MouthShut, with `platform=YouTube`.
+
+## 3. Run a larger collection
+
+```bash
+python3 main.py --platform youtube
+```
+
+Optional limits can be changed with:
+
+- `YOUTUBE_MAX_VIDEOS_PER_BRAND` (default `5`)
+- `YOUTUBE_MAX_COMMENTS_PER_VIDEO` (default `100`)
+
+You can edit `YOUTUBE_SEARCH_QUERIES` in `config.py` to change what is searched for each brand.

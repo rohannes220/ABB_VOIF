@@ -13,6 +13,7 @@ from schema import write_reviews
 PLATFORM_MODULES = {
     "mouthshut": "scrapers.mouthshut",
     "google": "scrapers.google_reviews",
+    "youtube": "scrapers.youtube",
 }
 
 

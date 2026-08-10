@@ -54,6 +54,18 @@ INSTAGRAM_HASHTAGS = {
     "Reebok": "reebokindia",
 }
 
+# YouTube search queries used by the official YouTube Data API scraper.
+# Edit any query to broaden/narrow the videos used for Voice of Customer data.
+YOUTUBE_SEARCH_QUERIES = {
+    "Allen Solly": "Allen Solly review India",
+    "Louis Philippe": "Louis Philippe clothing review India",
+    "Van Heusen": "Van Heusen clothing review India",
+    "Peter England": "Peter England clothing review India",
+    "American Eagle": "American Eagle India clothing review",
+    "Reebok": "Reebok India review",
+}
+
+
 REQUEST_TIMEOUT = 15
 REQUEST_DELAY_SECONDS = 2.5  # politeness delay between requests
 USER_AGENT = (
