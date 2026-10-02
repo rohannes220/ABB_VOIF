@@ -224,7 +224,6 @@ Windows PowerShell:
 $env:YOUTUBE_API_KEY="YOUR_API_KEY"
 ```
 
-Do not hard-code or commit the API key into the repository.
 
 ---
 
@@ -429,12 +428,4 @@ This project is intended for academic and portfolio purposes.
 
 **Rohan Kumar**
 
-````
 
-The API key **is not supposed to be written into the README**. The README just tells someone to set their own key using:
-
-```bash
-export YOUTUBE_API_KEY="YOUR_API_KEY"
-````
-
-That’s why you saw the API key section even though the code already works on your machine.
